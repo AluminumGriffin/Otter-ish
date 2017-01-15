@@ -8,6 +8,6 @@ Feel free to download just about everything (and hopefully merge into main branc
 This is in no way affiliated with anything.
 
 The segments
-* Language - .qm and .ts files with additions (hotkeys mainly)
-* Binary - RPi3 build
-* Config - My own config-file to be more similar to how I set my up O12
+ * Language - .qm and .ts files with additions (hotkeys mainly)
+ * Binary - RPi3 build
+ * Config - My own config-file to be more similar to how I set my up O12

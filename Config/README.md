@@ -8,14 +8,14 @@ Feel free to download just about everything (and hopefully merge into main branc
 This is in no way affiliated with anything.
 
 This segment:
-* Config - My own config-file to be more similar to how I set my up O12
+ * Config - My own config-file to be more similar to how I set my up O12
 
 A simple otter.conf
 To use:
-1. Shut down otter
-2. Make a backup of your ~/.config/otter/otter.conf
-   cd ~/.config/otter/
-   cp otter.conf otter.conf.bkup
-3. Put the newly downloaded otter.conf in ~/.config/otter/otter.conf
-4. Start otter-browswer
+ 1. Shut down otter
+ 2. Make a backup of your ~/.config/otter/otter.conf
+    cd ~/.config/otter/
+    cp otter.conf otter.conf.bkup
+ 3. Put the newly downloaded otter.conf in ~/.config/otter/otter.conf
+ 4. Start otter-browswer
 

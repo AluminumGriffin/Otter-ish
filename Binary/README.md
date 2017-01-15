@@ -8,7 +8,7 @@ Feel free to download just about everything (and hopefully merge into main branc
 This is in no way affiliated with anything.
 
 This segment:
-* Binary - RPi3 build
+ * Binary - RPi3 build
 
 Built for RPi3 somewhat close to default.
 

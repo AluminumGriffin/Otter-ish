@@ -19,3 +19,10 @@ To use:
  3. Put the newly downloaded otter.conf in ~/.config/otter/otter.conf
  4. Start otter-browswer
 
+ * Keyboard - My own keyboard settings
+To use:
+ 1. mkdir ~/.config/otter/keyboard
+ 2. copy alugr.ini to ~/.config/otter/keyboard)
+ 3. Go to *tools* - *preferences* - *advanced* - *keyboard*
+ 4. Click "Read"
+ 5. Select *Personal Bindings (AlGr)*

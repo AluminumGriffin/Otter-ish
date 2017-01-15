@@ -13,8 +13,8 @@ This segment:
 A simple otter.conf
 To use:
  1. Shut down otter
- 2. Make a backup of your ~/.config/otter/otter.conf
-    cd ~/.config/otter/
+ 2. Make a backup of your ~/.config/otter/otter.conf  
+    cd ~/.config/otter/  
     cp otter.conf otter.conf.bkup
  3. Put the newly downloaded otter.conf in ~/.config/otter/otter.conf
  4. Start otter-browswer
